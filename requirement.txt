@@ -1,0 +1,11 @@
+flask
+re
+json
+csv
+emoji
+numpy
+pandas
+datetime
+collections
+textblob
+os
